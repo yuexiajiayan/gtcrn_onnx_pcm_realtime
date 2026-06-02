@@ -12,7 +12,8 @@ g++ -O2 -std=c++17  -I./kissfft-master  -I./onnxruntime-linux/include  gtcrn_ok.
 
 ./gtcrn_ok
 
-# 结果和test_ok.py 一致
+# 结果和test_ok.py 运行一致，
+# 可以用到jni环境
 
 
 
