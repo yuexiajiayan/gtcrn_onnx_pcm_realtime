@@ -16,4 +16,5 @@ g++ -O2 -std=c++17  -I./kissfft-master  -I./onnxruntime-linux/include  gtcrn_ok.
 # 可以用到jni环境
 
 
-
+# 其他
+有呼叫系统需求：https://github.com/yuexiajiayan/freeswitch-management-platform
